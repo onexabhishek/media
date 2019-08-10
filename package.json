@@ -1,0 +1,15 @@
+{
+  "name": "media_gallery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "media_gallery_beta.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Singh",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.4.1"
+  }
+}
